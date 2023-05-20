@@ -2,29 +2,16 @@
 C library made to simplify user input, include removing the enter key character.
 
 
-
 𝐇𝐨𝐰 𝐭𝐨 𝐢𝐧𝐜𝐥𝐮𝐝𝐞 𝐭𝐡𝐞 𝐥𝐢𝐛𝐫𝐚𝐫𝐲 𝐢𝐧𝐭𝐨 𝐲𝐨𝐮𝐫 𝐩𝐫𝐨𝐣𝐞𝐜𝐭
 
-#include "userscan.h" ---> It's important for the library
-
-#include "userscan.c" ---> to be included in that order.
-
+![image](https://github.com/ToujoursTitou2/InputScan/assets/129084186/ea31e32f-3407-4e93-a7b3-1510e52f6b3b)
 
 
 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧 𝐩𝐫𝐨𝐭𝐨𝐭𝐲𝐩𝐞 
 
-char userScan(char *input, int size);
-
+![image](https://github.com/ToujoursTitou2/InputScan/assets/129084186/4475f9d3-6af4-4c5f-8789-57ab4b12dd29)
 
 
 𝐄𝐱𝐚𝐦𝐩𝐥𝐞
 
-#include <stdio.h>
-#include "userscan.h"
-#include "userscan.c"
-void main(){
-  char your_char_variable;
-  printf("Your_message_askin_the_user_to_enter_something");
-  userScan(your_char_variable, the_size_you_want);
-  printf("you_return_user_input_which_is %s\n", your_char_variable);
-}
+![image](https://github.com/ToujoursTitou2/InputScan/assets/129084186/d426b98a-e78b-4acb-be75-b4da923ea26a)
