@@ -14,4 +14,4 @@ C library made to simplify user input, include removing the enter key character.
 
 𝐄𝐱𝐚𝐦𝐩𝐥𝐞
 
-![image](https://github.com/ToujoursTitou2/InputScan/assets/129084186/d426b98a-e78b-4acb-be75-b4da923ea26a)
+![image](https://github.com/ToujoursTitou2/InputScan/assets/129084186/81077568-a924-4337-b91c-00fcfb7a9f2b)
