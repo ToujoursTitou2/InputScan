@@ -9,7 +9,7 @@ C library made to simplify user input, include removing the enter key character.
 
 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧 𝐩𝐫𝐨𝐭𝐨𝐭𝐲𝐩𝐞 
 
-![image](https://github.com/ToujoursTitou2/InputScan/assets/129084186/a691d184-7d52-43df-beee-0e5b004e5fe1)
+![image](https://github.com/ToujoursTitou2/InputScan/assets/129084186/4ed59526-deb0-456f-92b7-316781012a7f)
 
 
 𝐄𝐱𝐚𝐦𝐩𝐥𝐞
