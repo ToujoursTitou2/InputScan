@@ -15,6 +15,6 @@ char inputScan(char *input, int size){
     }
   }else{
     printf("Error: %s\n", strerror(errno));
-    exit(EXIT_FAILURE);
+    return EXIT_FAILURE;
   }
 }
