@@ -5,7 +5,7 @@
 
 char inputScan(char *input, int size){
   int c = 0;
-  if(fgets(input, size, stdin) != NULL){;
+  if(fgets(input, size, stdin) != NULL){
     if(input[strlen(input) - 1] == '\n'){
       input[strlen(input) - 1] = '\0';
     }
