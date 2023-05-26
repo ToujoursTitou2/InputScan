@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include <errno.h>
 
 char inputScan(char *input, int size){
   if(fgets(input, size, stdin) != NULL){
@@ -12,7 +11,6 @@ char inputScan(char *input, int size){
     }
   }else{
     clearBuffer();
-    printf("Error: %s\n", strerror(errno));
     return EXIT_FAILURE;
   }
 }
