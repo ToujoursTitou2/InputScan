@@ -19,7 +19,7 @@ char inputScan(char *input, int size);
 
 𝐄𝐱𝐚𝐦𝐩𝐥𝐞
 
-`` 
+``` 
 #include <stdio.h>
 #include <stdlib.h>
 #include "main.h"
@@ -31,4 +31,4 @@ int main(){
   printf("Your name is : \n", user_input);
   return EXIT_SUCCESS;
 }
-``
+```
