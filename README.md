@@ -12,7 +12,9 @@ C library made to simplify user input, include removing the enter key character 
 
 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧 𝐩𝐫𝐨𝐭𝐨𝐭𝐲𝐩𝐞 
 
-```char inputScan(char *input, int size);```
+```
+char inputScan(char *input, int size);
+```
 
 
 𝐄𝐱𝐚𝐦𝐩𝐥𝐞
