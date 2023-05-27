@@ -13,22 +13,8 @@ C library made to simplify user input, include removing the enter key character 
 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧 𝐩𝐫𝐨𝐭𝐨𝐭𝐲𝐩𝐞 
 
 ```
-char inputScan(char *input, int size);
-```
-
-
-𝐄𝐱𝐚𝐦𝐩𝐥𝐞
-
-``` 
-#include <stdio.h>
-#include <stdlib.h>
-#include "main.h"
-#include "inputscan.h"
-int main(){
-  char *user_input;
-  printf("Enter your name :\n");
-  intputScan(user_input, SIZE);
-  printf("Your name is : \n", user_input);
-  return EXIT_SUCCESS;
-}
+void clearBuffer();
+char charScan(char *input, int size);
+int intScan();
+double doubleScan();
 ```
