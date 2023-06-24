@@ -14,6 +14,6 @@ InputScan is a valuable tool for C developers seeking to enhance the security of
 
 Feel free to contribute, report issues, or suggest improvements to InputScan, making it an even more powerful and beneficial library for the developer community.
 
-[Requirements](https://github.com/ToujoursTitou2/InputScan/wiki/Requirements)
 [Installation](https://github.com/ToujoursTitou2/InputScan/wiki/Installation)
+[Prototype](https://github.com/ToujoursTitou2/InputScan/wiki/Prototype)
 [Wiki](https://github.com/ToujoursTitou2/InputScan/wiki)
