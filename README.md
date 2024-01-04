@@ -3,6 +3,7 @@
         <img src="https://img.shields.io/badge/license-GPLv3-green"/></a>
       <a href="https://github.com/ToujoursTitou2/InputScan/wiki" alt="Wiki">
          <img src="https://img.shields.io/badge/Wiki-3.3-blue"/></a>
+      <h1>InputScan</h1>
 </p>
 
 
