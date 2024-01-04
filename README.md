@@ -1,3 +1,11 @@
+<p align="center">
+      <a href="https://github.com/ToujoursTitou2/InputScan/blob/main/LICENSE" alt="License">
+        <img src="https://img.shields.io/badge/license-GPLv3-green"/></a>
+      <a href="https://github.com/ToujoursTitou2/InputScan/wiki" alt="Wiki">
+         <img src="https://img.shields.io/badge/Wiki-3.3-blue"/></a>
+</p>
+
+
 InputScan is a C library that provides secure user input functionality. It aims to offer a simple and robust interface for user input, minimizing the risk of buffer overflow and other common vulnerabilities.
 
 Key Features : Secure Input: InputScan employs secure input techniques to ensure that user input does not overflow allocated buffers. This helps prevent buffer overflow attacks and enhances application security.
@@ -13,7 +21,3 @@ Comprehensive Documentation : The project is accompanied by detailed documentati
 InputScan is a valuable tool for C developers seeking to enhance the security of their applications by mitigating user input vulnerabilities. With its ease of use and secure input functionality, InputScan contributes to the development of more reliable and robust applications.
 
 Feel free to contribute, report issues, or suggest improvements to InputScan, making it an even more powerful and beneficial library for the developer community.
-
-[Installation](https://github.com/ToujoursTitou2/InputScan/wiki/Installation)
-[Prototype](https://github.com/ToujoursTitou2/InputScan/wiki/Prototype)
-[Wiki](https://github.com/ToujoursTitou2/InputScan/wiki)
